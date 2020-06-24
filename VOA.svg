@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="255px" height="102px" viewBox="0 0 255 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Logo-VOA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00017 113.999957 0.00017 113.999957 102 0 102"></polygon>
+        <polygon id="path-3" points="-4.25373134e-05 0 113.999957 0 113.999957 101.99983 -4.25373134e-05 101.99983"></polygon>
+    </defs>
+    <g id="Logo-VOA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M74.8656291,51.01122 C74.8656291,26.613245 91.4585843,6.089995 113.969756,0.08262 L113.999957,0.00017 L69.8521813,0.00017 L53.6675843,60.35017 L37.4825619,0.00017 L-4.25373134e-05,0.00017 L37.1575769,102.00017 L76.8423381,102.00017 L84.4058978,81.237645 C78.3962261,72.68112 74.8656291,62.25927 74.8656291,51.01122" id="Fill-1" fill="#3B79B7" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M127.494475,26 C113.419325,26 102,37.419325 102,51.505525 C102,65.588325 113.419325,77 127.494475,77 C141.5794,77 153,65.588325 153,51.505525 C153,37.419325 141.5794,26 127.494475,26" id="Fill-4" fill="#3B79B7"></path>
+            <g id="Group-8" transform="translate(141.000000, 0.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-7"></g>
+                <path d="M39.1342858,50.98878 C39.1342858,75.386755 22.5413306,95.910005 0.0301589552,101.91738 L-4.25373134e-05,101.99983 L44.1477336,101.99983 L60.3323306,41.64983 L76.517353,101.99983 L113.999957,101.99983 L76.8423381,-0.00017 L37.1580022,-0.00017 L29.5940172,20.762355 C35.6036888,29.31888 39.1342858,39.74073 39.1342858,50.98878" id="Fill-6" fill="#3B79B7" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
